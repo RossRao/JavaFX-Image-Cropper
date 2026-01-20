@@ -15,7 +15,6 @@ Designed to be embedded directly into JavaFX layouts and return a ready-to-use c
 * 🖱 Drag the image to position it within the crop area
 * 🔍 Smooth zoom control via slider
 * 📐 Fixed aspect-ratio crop window
-* 🖼 Transparent background output
 
 ---
 
