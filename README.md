@@ -23,8 +23,12 @@ Designed to be embedded directly into JavaFX layouts and return a ready-to-use c
 ### Gradle (Kotlin DSL)
 
 ```kotlin
+repositories {
+    maven { url = uri("https://jitpack.io") }
+}
+
 dependencies {
-    implementation("com.rossrao.libs.imagecropper:javafx-image-cropper:26.1.0")
+    implementation("com.github.RossRao:javafx-image-cropper:26.1.0")
 }
 ```
 
